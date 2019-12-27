@@ -1,1 +1,1 @@
-# Wordpress Horse Theme
+# Smart Pedigree Update Engine

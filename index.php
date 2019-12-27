@@ -2,6 +2,9 @@
 
 /*
 Plugin Name: AHW Smart Pedigree Update Engine
+Version: 2.0
+Author: Arabian Horse World
+Author URI: https://arabianhorseworld.com
 */
 
 function pedigree_update_engine($array) {
